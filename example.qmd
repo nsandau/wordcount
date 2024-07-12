@@ -1,0 +1,11 @@
+---
+title: "Wordcount Example"
+filters:
+  - wordcount
+---
+
+## Heading
+
+This filter adds formatting to heading text.
+
+
